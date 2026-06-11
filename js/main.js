@@ -1,3 +1,5 @@
+// js/main.js
+
 // click listener
 $(document).ready( function() {
     $("#submitForm").click( function() {
